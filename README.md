@@ -23,7 +23,7 @@ I build web applications, developer tooling, mobile solutions, and practical AI 
 
 ## 🤝 Open Source Contributions
 
-- **[diskwatch](https://github.com/alexandrmotologa/diskwatch)**: Contributed cross-platform support for **Windows** (Phase 1+) to an open-source real-time disk I/O and storage diagnostic tool originally designed for Linux and macOS. *(in review)*
+- **[diskwatch](https://github.com/alexandrmotologa/diskwatch)**: Contributed cross-platform support for **Windows** to an open-source real-time disk I/O and storage diagnostic tool originally designed for Linux and macOS.
 
 ---
 
