@@ -1,25 +1,25 @@
 # Alexandr Motologa
 
-### Senior AI Product Engineer | Systems & Software Architect
+### Senior AI Engineer & Automation Specialist | GenAI Workflows, LLM Pipelines & Product Architecture
 
-I build web applications, developer tools, and systems software. Founder of MTLG Labs and creator of SnapFrame.store, MCP Studio, ScreenForge, and open-source utilities.
+I architect production AI pipelines, mobile growth automation, and developer tools. Founder of MTLG Labs and creator of ASOCraft, AppSentinel, UACraft, SnapFrame.store, and MCP Studio.
 
 [mtlg.site](https://mtlg.site) • [mtlglabs.space](https://mtlglabs.space) • [LinkedIn](https://www.linkedin.com/in/alexandr-motologa/)
 
 ---
 
-## Featured projects and developer tools
+## Featured AI & Automation Systems
 
-| Project | Stack | Description |
+| Project | Focus Area | Description |
 |:---|:---|:---|
-| **[mcp-studio](https://mcp.mtlglabs.space)** | Electron, React 19, MCP | Desktop IDE and testing workbench for the Model Context Protocol with schema validation and config exports for Claude and Cursor. |
-| **[screenforge](https://github.com/alexandrmotologa/screenforge)** | Tauri v2, Rust, React 19 | Cross-platform screen recording studio with smart auto-zoom, spring physics cursor smoothing, and 4K export. |
-| **[stealth-voice-copilot](https://github.com/alexandrmotologa/stealth-voice-copilot)** | Android, Kotlin, Sherpa-ONNX | Offline on-device voice assistant running Silero VAD, local Whisper, and quantized LLMs over a true black lockscreen overlay. |
-| **[inferops](https://github.com/alexandrmotologa/inferops)** | Python, vLLM, SGLang, Grafana | Bare-metal LLM control plane and multi-engine supervisor with predictive VRAM sizing and scale-to-zero gateway. |
-| **[snapframe.store](https://snapframe.store)** | React 19, Canvas, Fastlane | In-browser screenshot studio with 3D device framing, panoramic layouts, and Fastlane exports for the App Store and Google Play. |
-| **[duckstudio-web](https://github.com/alexandrmotologa/duckstudio-web)** | DuckDB-Wasm, Arrow, Vite | In-browser SQL workbench running DuckDB-Wasm and Apache Arrow in memory, with Monaco editor integration and query profiling. |
-| **[veloce-engine](https://github.com/alexandrmotologa/veloce-engine)** | Java 21, LMAX Disruptor | Limit order book and matching engine built on the LMAX Disruptor ring buffer with a zero-allocation critical path. |
-| **[natslens](https://github.com/alexandrmotologa/natslens)** | Go, NATS JetStream, React 19 | High-performance NATS and JetStream observability studio, consumer lag visualizer, and Key-Value workbench. |
+| **[asocraft](https://github.com/alexandrmotologa/asocraft)** | ASO & Localization | Automated App Store & Google Play multi-language localization pipeline with character boundary enforcement and Fastlane export. |
+| **[appsentinel](https://github.com/alexandrmotologa/appsentinel)** | Review Triage & Alerts | Real-time mobile app review triage, hardware extraction, and crash spike monitoring for App Store and Google Play feeds. |
+| **[uacraft](https://github.com/alexandrmotologa/uacraft)** | UA & Marketing Automation | Autonomous ad creative, video hook, and copy mutation engine with 9:16 safe-zone validation and bulk ad platform export. |
+| **[mcp-studio](https://mcp.mtlglabs.space)** | AI DevTools | Desktop IDE and testing workbench for the Model Context Protocol with schema validation and config exports for Claude and Cursor. |
+| **[snapframe.store](https://snapframe.store)** | Store Assets Automation | In-browser screenshot studio with 3D device framing, panoramic layouts, and Fastlane exports for the App Store and Google Play. |
+| **[screenforge](https://github.com/alexandrmotologa/screenforge)** | Desktop Video Studio | Cross-platform screen recording studio with smart auto-zoom, spring physics cursor smoothing, and 4K export. |
+| **[stealth-voice-copilot](https://github.com/alexandrmotologa/stealth-voice-copilot)** | On-Device Voice AI | Offline voice assistant running Silero VAD, local Whisper, and quantized LLMs over a true black lockscreen overlay. |
+| **[inferops](https://github.com/alexandrmotologa/inferops)** | LLM Infrastructure | Bare-metal LLM control plane and multi-engine supervisor with predictive VRAM sizing and scale-to-zero gateway. |
 
 ---
 
@@ -31,11 +31,10 @@ I build web applications, developer tools, and systems software. Founder of MTLG
 
 ## Core tech stack
 
-- **Languages:** TypeScript, Rust, Go, Java 21, Python 3.12, Kotlin, SQL
-- **Frontend & Desktop:** React 19, Next.js, Tauri v2, Electron, TailwindCSS, Jetpack Compose
-- **Systems & Backend:** Node.js, Fastify, Spring Boot, LMAX Disruptor, WebSockets, gRPC, NATS
-- **AI & Tooling:** Model Context Protocol (MCP), On-Device AI (Sherpa-ONNX, Silero VAD), Local LLMs (vLLM, SGLang, llama.cpp), DuckDB-Wasm
-- **Databases & Storage:** PostgreSQL, pgvector, SQLite, DuckDB, Redis, IndexedDB, LSM-Tree
+- **AI & Automation:** Model Context Protocol (MCP), LLM APIs (Anthropic Claude, OpenAI, Gemini), Structured Outputs (Zod, JSON Schema), Fastlane, Agentic Workflows, n8n
+- **Full-Stack & Languages:** TypeScript, JavaScript, Python 3.12, Node.js, React 19, Next.js, Bubble.io, TailwindCSS
+- **Platforms & Desktop:** Tauri v2, Electron, Android (Kotlin, Jetpack Compose), Chromium DevTools Extensions
+- **Databases & Storage:** PostgreSQL, pgvector, SQLite, DuckDB, Redis, IndexedDB
 - **DevOps & Cloud:** Docker, GitHub Actions CI/CD, Linux, Prometheus, Grafana, Vercel
 
 ---
